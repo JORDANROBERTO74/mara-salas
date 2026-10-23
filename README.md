@@ -15,7 +15,7 @@ It is a presentation site, not a business application. There is no CMS, database
 - **Clean-room build.** Layout, copy, palette and imagery were written for this project; no template classes, stock photos, copy or names were carried over.
 - **A non-software subject.** The portfolio belongs to an interior architecture studio, with project facts, materials and process rather than a developer résumé.
 - **Projects that actually open.** Each card opens a native `<dialog>` with the full story, project facts, a second photograph and a link to the enquiry email, plus next-project navigation. Nothing on the page links nowhere.
-- **Self-hosted imagery.** Ten WebP photographs were generated for this project and live in `public/images`; the site makes no requests to Unsplash or any other image host.
+- **Self-hosted imagery.** Ten WebP photographs were generated for this project and live in `public/images`; the site makes no requests to any remote image host.
 - **Bilingual by default.** `/[locale]` routes, typed dictionaries, automatic browser-language detection, a manual switcher and `hreflang` alternates.
 - **Static by default.** Both locales are prerendered. JavaScript is limited to the mobile menu, the project dialog, the copy button and the locale switcher.
 - **Small dependency surface.** Next.js, React, Tailwind CSS and lucide icons. No UI kit, no animation library, no CMS client.
