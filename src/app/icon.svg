@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Mara Salas">
+  <rect width="64" height="64" fill="#f4f0e8"/>
+  <path d="M14 52V30a18 18 0 0 1 36 0v22" fill="none" stroke="#2f4a7a" stroke-width="3"/>
+  <path d="M26 52V32a6 6 0 0 1 12 0v20" fill="none" stroke="#2f4a7a" stroke-width="3" opacity="0.55"/>
+  <path d="M9 52h46" stroke="#2f4a7a" stroke-width="3"/>
+</svg>
